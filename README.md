@@ -15,7 +15,7 @@ This project performs sentiment analysis on customer reviews of musical instrume
 
 ## **Dataset**
 
-- **Source**: [Amazon Musical Instruments Reviews (Kaggle)](https://www.kaggle.com/datasets)
+- **Source**: [Amazon Musical Instruments Reviews (Kaggle)]([https://www.kaggle.com/datasets](https://www.kaggle.com/datasets/eswarchandt/amazon-music-reviews))
 - **Format**: CSV (used in this project)
 
 ---
